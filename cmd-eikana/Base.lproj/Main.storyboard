@@ -852,16 +852,16 @@
                                                                         <menu key="menu" id="BOb-Li-1q3">
                                                                             <items>
                                                                                 <menuItem title="menu" state="on" hidden="YES" id="hM9-HT-fqx"/>
-                                                                                <menuItem title="最上部に移動" id="SPl-n7-KTj">
+                                                                                <menuItem title="top" id="SPl-n7-KTj">
                                                                                     <modifierMask key="keyEquivalentModifierMask"/>
                                                                                 </menuItem>
-                                                                                <menuItem title="1つ上に移動" id="5K6-xN-Jic"/>
-                                                                                <menuItem title="1つ下に移動" id="fY1-dw-1o1"/>
-                                                                                <menuItem title="最下部に移動" id="EUh-qz-H2g">
+                                                                                <menuItem title="up" id="5K6-xN-Jic"/>
+                                                                                <menuItem title="down" id="fY1-dw-1o1"/>
+                                                                                <menuItem title="bottom" id="EUh-qz-H2g">
                                                                                     <modifierMask key="keyEquivalentModifierMask"/>
                                                                                 </menuItem>
                                                                                 <menuItem isSeparatorItem="YES" id="VSb-Dd-g0X"/>
-                                                                                <menuItem title="この項目を削除" id="502-f2-l6k">
+                                                                                <menuItem title="delete" id="502-f2-l6k">
                                                                                     <modifierMask key="keyEquivalentModifierMask"/>
                                                                                 </menuItem>
                                                                             </items>

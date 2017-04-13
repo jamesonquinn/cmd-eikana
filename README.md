@@ -1,32 +1,37 @@
-# ⌘英かな
+# ⌘ English Kana
 
-左右のコマンドキーを単体で押した時に英数/かなを切り替えるようにするアプリです。  
-設定をいじることでmacOS Sierraでも動くキーリマップアプリとしても利用できます。  
+It is an application to switch the alphanumeric / Kana when you press the left and right of the command key by itself.  
+It can also be used as a Kiri map app to move even macOS Sierra by fiddling with settings.  
 
-## ダウンロード
+## downloads
 https://ei-kana.appspot.com/  
-ここからダウンロードしてください
+Please download it from here
 
-## 使い方（初回起動時）
+## How to use (at the time of initial startup)
 
-⌘英かな.appを起動させます。未署名ですので[右クリック操作](https://support.apple.com/ja-jp/HT202491)で開いてください。  
-アクセシビリティ機能へのアクセスの確認ダイアログが表示されるので「"システム環境設定"を開く」をクリックします。
-左下の鍵をクリックして解除し、⌘英かな.appにチェックを入れてください。
+⌘ Start up the British Kana .app.
+Edited
+Please open in [right-click operation]  because it is unsigned (https://support.apple.com/ja-jp/HT202491).
+Characters: 106
 
-## 終了方法
 
-右上のステータスバーにある「⌘」アイコンを開き、「Quit」を選びます。
+When the confirmation dialog of access to the accessibility function is displayed, click the "Open" System Preferences "."
+To release by clicking on the bottom left of the key, please put a check in the ⌘ English Kana .app.
 
-## アンインストール方法
+## How to exit
 
-⌘英かな.appをゴミ箱に入れてください。  
-また、設定ファイルが`~/Library/Preferences/io.github.imasanari.cmd-eikana.plist`にあります。
-綺麗さっぱり消したいという場合はこちらもゴミ箱に入れてください。
+Open the "⌘" icon in the upper-right corner of the status bar, select the "Quit".
 
-## 動作確認
+## How to uninstall
 
-- OS X El Capitan 10.11.5 
+Please put it in the trash ⌘ English Kana .app.  
+In addition, located in the configuration file is `~ / Library / Preferences / io.github.imasanari.cmd-eikana.plist`.
+Please also put in the trash here if that want to erase clean refreshing.
+
+## Operation check
+
+- OS X El Capitan 10.11.5
 - mac OS Sierra 10.12
 
-## ライセンス
+## license
 MIT License
